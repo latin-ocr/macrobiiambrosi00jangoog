@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./macrobiiambrosi00jangoog_0777.png"; bbox 0 0 3042 4900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 582 248 903 262">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 582 248 903 262">
+     <span class='ocr_line' id='line_1_1' title="bbox 582 248 903 262; baseline 0 4638"><span class='ocrx_word' id='word_1_1' title='bbox 582 248 903 262; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 723 340 1510 420">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 723 340 1510 420">
+     <span class='ocr_line' id='line_1_2' title="bbox 723 340 1510 420; baseline 0.025 -20"><span class='ocrx_word' id='word_1_2' title='bbox 723 340 777 400; x_wconf 83' lang='lat' dir='ltr'><strong>U.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 800 340 852 402; x_wconf 90' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 875 342 1183 410; x_wconf 61' lang='lat' dir='ltr'><strong>sennem</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1201 352 1510 420; x_wconf 66' lang='lat' dir='ltr'><strong>mammes</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 480 423 1542 693">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 480 423 1542 693">
+     <span class='ocr_line' id='line_1_3' title="bbox 480 423 1542 693; baseline 0.028 -28.33"><span class='ocrx_word' id='word_1_6' title='bbox 480 423 1542 693; x_wconf 77' lang='grc' dir='ltr'>ΙΙΙΙΙΙΙΙΙΙΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 818 741 1395 823">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 818 741 1395 823">
+     <span class='ocr_line' id='line_1_4' title="bbox 818 741 1395 823; baseline 0.028 -16"><span class='ocrx_word' id='word_1_7' title='bbox 818 741 1395 823; x_wconf 60' lang='lat' dir='ltr'>(nusquam,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 672 426 2948 1568">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 672 426 2948 1568">
+     <span class='ocr_line' id='line_1_5' title="bbox 672 426 2948 1568; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 672 426 2948 1568; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 942 4336 1896 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 942 4336 1896 4852">
+     <span class='ocr_line' id='line_1_6' title="bbox 942 4336 1896 4852; baseline 0 48"><span class='ocrx_word' id='word_1_9' title='bbox 942 4336 1896 4852; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
